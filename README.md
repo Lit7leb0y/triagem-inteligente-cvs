@@ -37,6 +37,6 @@ A aplicação está disponível online no **Streamlit Cloud**:
 
 ```text
 meu-projeto/
-├── app.py              # Código principal do app
+├── track_cv.py              # Código principal do app
 ├── requirements.txt    # Dependências
 └── README.md           # Este arquivo
